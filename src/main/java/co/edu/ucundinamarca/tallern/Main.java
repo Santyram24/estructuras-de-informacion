@@ -16,6 +16,7 @@ public class Main {
         log.info("Hello World : this is an info message");
           //getters y setters
           //prueba de git :3
+          //otra prueba
         Persona p1 = null;
 
         p1.setNombrePersona("jesus");
