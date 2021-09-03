@@ -17,12 +17,12 @@ public class Main {
           //getters y setters
           //prueba de git :3
           //otra prueba
-        Persona p1 = null;
+       
 
-        p1.setNombrePersona("jesus");
-        p1.setEdadPersona(21);
+       
+       
 
-        p1.mostraPersona();
+     
         //instancia con herencia
 
         Alumno p2 = new Alumno(19, "santy", "universidad de cundinamarca");
