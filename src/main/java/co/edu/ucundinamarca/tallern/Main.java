@@ -17,10 +17,7 @@ public class Main {
           //getters y setters
           //prueba de git :3
           //otra prueba
-       
 
-       
-       
 
      
         //instancia con herencia
