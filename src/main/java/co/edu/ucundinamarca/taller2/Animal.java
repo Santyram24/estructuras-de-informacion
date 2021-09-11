@@ -7,27 +7,26 @@ package co.edu.ucundinamarca.taller2;
 
 import java.util.Objects;
 
-
-
 /**
  *
  * @author santy
  */
-public class Persona {
+public class Animal {
 
-    
     private String nombre;
+    private String especie;
     private int edad;
-    private double altura;
+    private int patas;
     private int id;
 
     @Override
     public int hashCode() {
-        int hash = 5;
-        hash = 61 * hash + Objects.hashCode(this.nombre);
-        hash = 61 * hash + this.edad;
-        hash = 61 * hash + (int) (Double.doubleToLongBits(this.altura) ^ (Double.doubleToLongBits(this.altura) >>> 32));
-        hash = 61 * hash + this.id;
+        int hash = 7;
+        hash = 47 * hash + Objects.hashCode(this.nombre);
+        hash = 47 * hash + Objects.hashCode(this.especie);
+        hash = 47 * hash + this.edad;
+        hash = 47 * hash + this.patas;
+        hash = 47 * hash + this.id;
         return hash;
     }
 
@@ -42,11 +41,11 @@ public class Persona {
         if (getClass() != obj.getClass()) {
             return false;
         }
-        final Persona other = (Persona) obj;
+        final Animal other = (Animal) obj;
         if (this.edad != other.edad) {
             return false;
         }
-        if (Double.doubleToLongBits(this.altura) != Double.doubleToLongBits(other.altura)) {
+        if (this.patas != other.patas) {
             return false;
         }
         if (this.id != other.id) {
@@ -55,9 +54,11 @@ public class Persona {
         if (!Objects.equals(this.nombre, other.nombre)) {
             return false;
         }
+        if (!Objects.equals(this.especie, other.especie)) {
+            return false;
+        }
         return true;
     }
-    
     
 
     public String getNombre() {
@@ -68,6 +69,14 @@ public class Persona {
         this.nombre = nombre;
     }
 
+    public String getEspecie() {
+        return especie;
+    }
+
+    public void setEspecie(String especie) {
+        this.especie = especie;
+    }
+
     public int getEdad() {
         return edad;
     }
@@ -76,12 +85,12 @@ public class Persona {
         this.edad = edad;
     }
 
-    public double getAltura() {
-        return altura;
+    public int getPatas() {
+        return patas;
     }
 
-    public void setAltura(double altura) {
-        this.altura = altura;
+    public void setPatas(int patas) {
+        this.patas = patas;
     }
 
     public int getId() {
@@ -91,7 +100,5 @@ public class Persona {
     public void setId(int id) {
         this.id = id;
     }
-    
-
     
 }

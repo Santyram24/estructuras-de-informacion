@@ -58,3 +58,12 @@
 03/Sep/2021 20:41:07,369- Main: 5
 03/Sep/2021 20:41:07,369- Main: Felicidades a alcanzado un nuevo record
 03/Sep/2021 20:41:07,370- Main: 5
+11/Sep/2021 16:13:03,004- MainPersona: Es una persona distintafalse
+11/Sep/2021 16:13:18,639- MainPersona: Es una persona distintafalse
+11/Sep/2021 16:14:37,029- MainPersona: Es una persona distinta: co.edu.ucundinamarca.taller2.Persona@b8ecbf00y co.edu.ucundinamarca.taller2.Persona@5970d519
+11/Sep/2021 16:16:19,351- MainPersona: Es una persona distinta: co.edu.ucundinamarca.taller2.Persona@b8ecbf00y co.edu.ucundinamarca.taller2.Persona@5970d519
+11/Sep/2021 16:16:19,353- MainPersona: La persona es la misma: co.edu.ucundinamarca.taller2.Persona@b8ecbf00y co.edu.ucundinamarca.taller2.Persona@b8ecbf00
+11/Sep/2021 16:17:08,995- MainPersona: Es una persona distinta: co.edu.ucundinamarca.taller2.Persona@b8ecbf00 y co.edu.ucundinamarca.taller2.Persona@5970d519
+11/Sep/2021 16:17:08,996- MainPersona: La persona es la misma: co.edu.ucundinamarca.taller2.Persona@b8ecbf00 y co.edu.ucundinamarca.taller2.Persona@b8ecbf00
+11/Sep/2021 16:19:00,441- MainPersona: Es una persona distinta: (co.edu.ucundinamarca.taller2.Persona@b8ecbf00) y (co.edu.ucundinamarca.taller2.Persona@5970d519)
+11/Sep/2021 16:19:00,442- MainPersona: La persona es la misma: (co.edu.ucundinamarca.taller2.Persona@b8ecbf00) y (co.edu.ucundinamarca.taller2.Persona@b8ecbf00)
