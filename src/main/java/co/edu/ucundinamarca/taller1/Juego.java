@@ -13,7 +13,7 @@ import org.apache.log4j.Logger;
  */
 public class Juego {//clase juego
 
-    static Logger log = Logger.getLogger(co.edu.ucundinamarca.tallern.Main.class.getName());//instanciamos un objeto de tipo logger
+    static Logger log = Logger.getLogger(co.edu.ucundinamarca.taller1.Main.class.getName());//instanciamos un objeto de tipo logger
     // public int numeroDeVidas; //creamos un atributo de numero de vidas (Previamente publico)
     private int numeroDeVidas;//creamos un atributo de numerode vidas (privado)
     private int numeroDeVidasReinicio;//creamos un atributo para reinciar el juego
