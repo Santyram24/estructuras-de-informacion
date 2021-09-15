@@ -59,7 +59,6 @@ public class Animal {
         }
         return true;
     }
-    
 
     public String getNombre() {
         return nombre;
@@ -100,5 +99,5 @@ public class Animal {
     public void setId(int id) {
         this.id = id;
     }
-    
+
 }

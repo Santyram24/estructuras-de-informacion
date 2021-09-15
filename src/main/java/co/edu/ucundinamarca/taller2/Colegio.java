@@ -14,28 +14,33 @@ import org.apache.log4j.Logger;
  */
 public class Colegio {
 
-   private String nacionalidad;
-   public static ArrayList<Colegio>listacol= new ArrayList<>();  
+    private String nacionalidad;
+    public static ArrayList<Colegio> listacol = new ArrayList<>();
     static Logger log = Logger.getLogger(co.edu.ucundinamarca.taller2.MainColegio.class.getName());
-   public Colegio(String nacionalidad){
-       this.nacionalidad=nacionalidad;
-   }
-   
-   public void agregarAlumno(Colegio nacionalidad){
-       listacol.add(nacionalidad);
-   }
-   @Override
-    public String toString(){
+
+    public Colegio(String nacionalidad) {
+        this.nacionalidad = nacionalidad;
+    }
+
+    public void agregarAlumno(Colegio nacionalidad) {
+        listacol.add(nacionalidad);
+    }
+
+    @Override
+    public String toString() {
         return nacionalidad;
     }
-   public Colegio mostrarTodosAlumnos(int posiciones){
-      return listacol.get(posiciones);
-   }
-   public void cuantosAlumnos(){
-      log.info("Hay " +listacol.size()+" Alumnos");
-   }
-   public void borrarAlumnos(Colegio nacionalidad){
-       listacol.remove(nacionalidad);
-       
-   }
+
+    public Colegio mostrarTodosAlumnos(int posiciones) {
+        return listacol.get(posiciones);
+    }
+
+    public void cuantosAlumnos() {
+        log.info("Hay " + listacol.size() + " Alumnos");
+    }
+
+    public void borrarAlumnos(Colegio nacionalidad) {
+        listacol.remove(nacionalidad);
+
+    }
 }

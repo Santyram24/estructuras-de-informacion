@@ -7,15 +7,12 @@ package co.edu.ucundinamarca.taller2;
 
 import java.util.Objects;
 
-
-
 /**
  *
  * @author santy
  */
 public class Persona {
 
-    
     private String nombre;
     private int edad;
     private double altura;
@@ -57,8 +54,6 @@ public class Persona {
         }
         return true;
     }
-    
-    
 
     public String getNombre() {
         return nombre;
@@ -91,7 +86,5 @@ public class Persona {
     public void setId(int id) {
         this.id = id;
     }
-    
 
-    
 }
