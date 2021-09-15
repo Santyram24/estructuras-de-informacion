@@ -67,3 +67,341 @@
 11/Sep/2021 16:17:08,996- MainPersona: La persona es la misma: co.edu.ucundinamarca.taller2.Persona@b8ecbf00 y co.edu.ucundinamarca.taller2.Persona@b8ecbf00
 11/Sep/2021 16:19:00,441- MainPersona: Es una persona distinta: (co.edu.ucundinamarca.taller2.Persona@b8ecbf00) y (co.edu.ucundinamarca.taller2.Persona@5970d519)
 11/Sep/2021 16:19:00,442- MainPersona: La persona es la misma: (co.edu.ucundinamarca.taller2.Persona@b8ecbf00) y (co.edu.ucundinamarca.taller2.Persona@b8ecbf00)
+13/Sep/2021 17:50:42,100- MainAnimal: El animal es distinto: (co.edu.ucundinamarca.taller2.Animal@74d6c2d9) y (co.edu.ucundinamarca.taller2.Animal@282c9bb7)
+13/Sep/2021 17:50:42,102- MainAnimal: El animal es el mismo: (co.edu.ucundinamarca.taller2.Animal@74d6c2d9) y (co.edu.ucundinamarca.taller2.Animal@74d6c2d9)
+13/Sep/2021 17:55:41,768- MainColegio: Hay1
+13/Sep/2021 18:02:53,411- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:02:59,374- MainColegio: Hay 1Alumnos
+13/Sep/2021 18:02:59,376- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:03:18,453- MainColegio: Hay 2Alumnos
+13/Sep/2021 18:03:18,454- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:03:19,743- MainColegio: Hay 3Alumnos
+13/Sep/2021 18:03:19,743- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:03:20,967- MainColegio: Hay 4Alumnos
+13/Sep/2021 18:03:20,967- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:03:22,991- MainColegio: Hay 5Alumnos
+13/Sep/2021 18:03:22,991- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:03:23,503- MainColegio: Hay 6Alumnos
+13/Sep/2021 18:04:37,092- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:04:44,595- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:04:53,741- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:05:00,153- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:05:05,543- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:05:12,328- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:05:35,371- MainColegio: Hay 6 Alumnos
+13/Sep/2021 18:11:15,124- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:13:26,289- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:13:52,337- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:13:58,397- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:14:06,286- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:14:11,406- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:14:26,583- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:14:32,909- MainColegio: Hay 6 Alumnos
+13/Sep/2021 18:14:32,909- MainColegio: Alumno 1co.edu.ucundinamarca.taller2.Colegio@2a3046da
+13/Sep/2021 18:14:32,910- MainColegio: Alumno 2co.edu.ucundinamarca.taller2.Colegio@2a098129
+13/Sep/2021 18:14:32,910- MainColegio: Alumno 3co.edu.ucundinamarca.taller2.Colegio@198e2867
+13/Sep/2021 18:14:32,910- MainColegio: Alumno 4co.edu.ucundinamarca.taller2.Colegio@12f40c25
+13/Sep/2021 18:14:32,910- MainColegio: Alumno 5co.edu.ucundinamarca.taller2.Colegio@3ada9e37
+13/Sep/2021 18:14:32,911- MainColegio: Alumno 6co.edu.ucundinamarca.taller2.Colegio@5cbc508c
+13/Sep/2021 18:22:36,859- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:22:46,296- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:22:54,139- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:22:57,139- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:23:09,813- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:23:16,498- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:23:28,587- MainColegio: Hay 6 Alumnos
+13/Sep/2021 18:23:28,588- MainColegio: Alumno 1co.edu.ucundinamarca.taller2.Colegio@2a3046da
+13/Sep/2021 18:23:28,588- MainColegio: Alumno 2co.edu.ucundinamarca.taller2.Colegio@2a098129
+13/Sep/2021 18:23:28,589- MainColegio: Alumno 3co.edu.ucundinamarca.taller2.Colegio@198e2867
+13/Sep/2021 18:23:28,589- MainColegio: Alumno 4co.edu.ucundinamarca.taller2.Colegio@12f40c25
+13/Sep/2021 18:23:28,589- MainColegio: Alumno 5co.edu.ucundinamarca.taller2.Colegio@3ada9e37
+13/Sep/2021 18:23:28,590- MainColegio: Alumno 6co.edu.ucundinamarca.taller2.Colegio@5cbc508c
+13/Sep/2021 18:42:18,586- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:42:25,021- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:42:28,740- MainColegio: Hay 2 Alumnos
+13/Sep/2021 18:42:28,741- MainColegio: Alumno 1AlumnoCOLOMBIANA
+13/Sep/2021 18:42:28,741- MainColegio: Alumno 2AlumnoMEXICANO
+13/Sep/2021 18:43:11,655- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:43:16,359- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 18:43:20,517- MainColegio: Hay 2 Alumnos
+13/Sep/2021 18:43:20,518- MainColegio: Alumno 1COLOMBIANA
+13/Sep/2021 18:43:20,518- MainColegio: Alumno 2MEXICANO
+13/Sep/2021 20:56:08,786- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 20:56:10,849- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 20:56:11,306- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 20:56:11,493- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 20:56:11,830- MainColegio: Digite la nacionalidad del alumno
+13/Sep/2021 20:56:12,044- MainColegio: Hay 6 Alumnos
+13/Sep/2021 21:07:59,031- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:08:07,253- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:08:10,600- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:08:12,675- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:08:33,901- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:08:36,208- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:08:38,564- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:08:42,148- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:10:44,057- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:10:45,459- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:10:47,473- MainSeleccion: john
+13/Sep/2021 21:10:47,473- MainSeleccion: lopez
+13/Sep/2021 21:10:47,474- MainSeleccion: james
+13/Sep/2021 21:10:47,474- MainSeleccion: falcao
+13/Sep/2021 21:10:47,474- MainSeleccion: cuadrado
+13/Sep/2021 21:10:47,474- MainSeleccion: cardona
+13/Sep/2021 21:10:47,474- MainSeleccion: zapata
+13/Sep/2021 21:10:47,475- MainSeleccion: medina
+13/Sep/2021 21:10:47,475- MainSeleccion: dsdad
+13/Sep/2021 21:10:47,475- MainSeleccion: sdetg
+13/Sep/2021 21:46:39,531- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:46:45,722- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:46:47,320- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:46:47,526- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:46:47,712- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:46:47,892- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:46:48,129- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:46:48,368- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:46:48,749- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:46:48,993- MainSeleccion: Digite el nombre del jugador
+13/Sep/2021 21:46:49,457- MainSeleccion: El nombre del jugador es: null
+13/Sep/2021 21:46:49,457- MainSeleccion: El nombre del jugador es: null
+13/Sep/2021 21:46:49,458- MainSeleccion: El nombre del jugador es: null
+13/Sep/2021 21:46:49,458- MainSeleccion: El nombre del jugador es: null
+13/Sep/2021 21:46:49,458- MainSeleccion: El nombre del jugador es: null
+13/Sep/2021 21:46:49,458- MainSeleccion: El nombre del jugador es: null
+13/Sep/2021 21:46:49,459- MainSeleccion: El nombre del jugador es: null
+13/Sep/2021 21:46:49,459- MainSeleccion: El nombre del jugador es: null
+13/Sep/2021 21:46:49,459- MainSeleccion: El nombre del jugador es: null
+13/Sep/2021 21:46:49,459- MainSeleccion: El nombre del jugador es: null
+13/Sep/2021 21:47:07,326- MainDias: lunes
+13/Sep/2021 21:47:07,327- MainDias: Martes
+13/Sep/2021 21:47:07,327- MainDias: MIercoles
+13/Sep/2021 21:47:07,328- MainDias: Jueves
+13/Sep/2021 21:47:07,328- MainDias: Viernes
+13/Sep/2021 21:47:07,329- MainDias: Sabado
+13/Sep/2021 21:47:07,329- MainDias: Domingo
+14/Sep/2021 10:39:44,039- MainDias: lunes
+14/Sep/2021 10:39:44,061- MainDias: Martes
+14/Sep/2021 10:39:44,062- MainDias: Miercoles
+14/Sep/2021 10:39:44,063- MainDias: Jueves
+14/Sep/2021 10:39:44,063- MainDias: Viernes
+14/Sep/2021 10:39:44,064- MainDias: Sabado
+14/Sep/2021 10:39:44,064- MainDias: Domingo
+14/Sep/2021 10:51:15,224- MainDias: lunes
+14/Sep/2021 10:51:15,227- MainDias: Martes
+14/Sep/2021 10:51:15,228- MainDias: Miercoles
+14/Sep/2021 10:51:15,229- MainDias: Jueves
+14/Sep/2021 10:51:15,230- MainDias: Viernes
+14/Sep/2021 10:51:15,230- MainDias: Sabado
+14/Sep/2021 10:51:15,231- MainDias: Domingo
+14/Sep/2021 10:51:15,232- MainDias: Que dia desea obtener
+14/Sep/2021 10:51:19,512- MainDias: Jueves
+14/Sep/2021 10:52:10,225- MainDias: lunes
+14/Sep/2021 10:52:10,227- MainDias: Martes
+14/Sep/2021 10:52:10,228- MainDias: Miercoles
+14/Sep/2021 10:52:10,230- MainDias: Jueves
+14/Sep/2021 10:52:10,230- MainDias: Viernes
+14/Sep/2021 10:52:10,231- MainDias: Sabado
+14/Sep/2021 10:52:10,231- MainDias: Domingo
+14/Sep/2021 10:52:10,231- MainDias: Que dia desea obtener
+14/Sep/2021 10:52:13,989- MainDias: Miercoles
+14/Sep/2021 10:52:40,451- MainDias: lunes
+14/Sep/2021 10:52:40,455- MainDias: Martes
+14/Sep/2021 10:52:40,456- MainDias: Miercoles
+14/Sep/2021 10:52:40,457- MainDias: Jueves
+14/Sep/2021 10:52:40,460- MainDias: Viernes
+14/Sep/2021 10:52:40,461- MainDias: Sabado
+14/Sep/2021 10:52:40,462- MainDias: Domingo
+14/Sep/2021 10:52:40,463- MainDias: Que dia desea obtener
+14/Sep/2021 10:52:43,470- MainDias: lunes
+14/Sep/2021 10:53:06,279- MainDias: lunes
+14/Sep/2021 10:53:06,280- MainDias: Martes
+14/Sep/2021 10:53:06,281- MainDias: Miercoles
+14/Sep/2021 10:53:06,281- MainDias: Jueves
+14/Sep/2021 10:53:06,282- MainDias: Viernes
+14/Sep/2021 10:53:06,282- MainDias: Sabado
+14/Sep/2021 10:53:06,282- MainDias: Domingo
+14/Sep/2021 10:53:06,283- MainDias: Que dia desea obtener
+14/Sep/2021 10:53:11,673- MainDias: Viernes
+14/Sep/2021 13:07:01,387- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:07:04,678- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:07:08,493- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:07:20,236- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:07:22,116- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:07:27,774- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:07:29,667- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:07:30,922- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:07:32,676- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:07:34,130- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:07:35,291- MainSeleccion: El nombre del jugador es: dadda
+14/Sep/2021 13:07:35,291- MainSeleccion: El nombre del jugador es: rgred
+14/Sep/2021 13:07:35,292- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 13:07:35,292- MainSeleccion: El nombre del jugador es: dsds
+14/Sep/2021 13:07:35,292- MainSeleccion: El nombre del jugador es: ass
+14/Sep/2021 13:07:35,292- MainSeleccion: El nombre del jugador es: fefea
+14/Sep/2021 13:07:35,293- MainSeleccion: El nombre del jugador es: sds
+14/Sep/2021 13:07:35,293- MainSeleccion: El nombre del jugador es: fdfffd
+14/Sep/2021 13:07:35,293- MainSeleccion: El nombre del jugador es: sda
+14/Sep/2021 13:07:35,293- MainSeleccion: El nombre del jugador es: dsds
+14/Sep/2021 13:07:35,294- MainSeleccion: El jugador no esta
+14/Sep/2021 13:08:27,092- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:08:31,037- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:08:33,372- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:08:34,511- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:08:36,437- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:08:38,138- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:08:40,874- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:08:44,632- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:08:45,584- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:08:46,790- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:08:47,997- MainSeleccion: El nombre del jugador es: dasdsa
+14/Sep/2021 13:08:47,997- MainSeleccion: El nombre del jugador es: dsadsa
+14/Sep/2021 13:08:47,997- MainSeleccion: El nombre del jugador es: sdada
+14/Sep/2021 13:08:47,998- MainSeleccion: El nombre del jugador es: fsfsfs
+14/Sep/2021 13:08:47,998- MainSeleccion: El nombre del jugador es: sdssa
+14/Sep/2021 13:08:47,998- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 13:08:47,998- MainSeleccion: El nombre del jugador es: sdafs
+14/Sep/2021 13:08:47,999- MainSeleccion: El nombre del jugador es: sdsds
+14/Sep/2021 13:08:47,999- MainSeleccion: El nombre del jugador es: sdasad
+14/Sep/2021 13:08:48,000- MainSeleccion: El nombre del jugador es: sdsa
+14/Sep/2021 13:08:48,000- MainSeleccion: El jugador no esta
+14/Sep/2021 13:09:27,313- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:09:31,441- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:09:32,250- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:09:33,331- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:09:34,253- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:09:35,214- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:09:35,876- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:09:36,656- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:09:37,629- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:09:38,453- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:09:39,326- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 13:09:39,326- MainSeleccion: El nombre del jugador es: sdasdas
+14/Sep/2021 13:09:39,326- MainSeleccion: El nombre del jugador es: gdgdsd
+14/Sep/2021 13:09:39,326- MainSeleccion: El nombre del jugador es: sdsafs
+14/Sep/2021 13:09:39,327- MainSeleccion: El nombre del jugador es: fssaas
+14/Sep/2021 13:09:39,327- MainSeleccion: El nombre del jugador es: sadfa
+14/Sep/2021 13:09:39,327- MainSeleccion: El nombre del jugador es: sadasda
+14/Sep/2021 13:09:39,327- MainSeleccion: El nombre del jugador es: sdadas
+14/Sep/2021 13:09:39,328- MainSeleccion: El nombre del jugador es: dsdasda
+14/Sep/2021 13:09:39,328- MainSeleccion: El nombre del jugador es: dsdsda
+14/Sep/2021 13:09:39,328- MainSeleccion: El jugador no esta
+14/Sep/2021 13:11:28,586- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:11:34,187- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:11:36,989- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:11:38,346- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:11:39,915- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:11:40,827- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:11:41,496- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:11:42,390- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:11:43,463- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:11:44,501- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 13:11:45,620- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 13:11:45,620- MainSeleccion: El nombre del jugador es: eegedsdsa
+14/Sep/2021 13:11:45,621- MainSeleccion: El nombre del jugador es: gdggdg
+14/Sep/2021 13:11:45,621- MainSeleccion: El nombre del jugador es: xcxzczc
+14/Sep/2021 13:11:45,621- MainSeleccion: El nombre del jugador es: hfgdf
+14/Sep/2021 13:11:45,621- MainSeleccion: El nombre del jugador es: sds
+14/Sep/2021 13:11:45,621- MainSeleccion: El nombre del jugador es: sadfas
+14/Sep/2021 13:11:45,622- MainSeleccion: El nombre del jugador es: sfsafs
+14/Sep/2021 13:11:45,622- MainSeleccion: El nombre del jugador es: sdfas
+14/Sep/2021 13:11:45,622- MainSeleccion: El nombre del jugador es: sfs
+14/Sep/2021 13:11:45,622- MainSeleccion: El jugador no esta
+14/Sep/2021 16:19:08,198- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:19:11,999- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:19:13,947- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:19:14,979- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:19:16,149- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:19:17,365- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:19:18,346- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:19:19,259- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:19:20,078- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:19:21,220- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:19:23,083- MainSeleccion: El nombre del jugador es: sdasdas
+14/Sep/2021 16:19:23,083- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 16:19:23,083- MainSeleccion: El nombre del jugador es: sdada
+14/Sep/2021 16:19:23,084- MainSeleccion: El nombre del jugador es: fddggd
+14/Sep/2021 16:19:23,084- MainSeleccion: El nombre del jugador es: sdsda
+14/Sep/2021 16:19:23,084- MainSeleccion: El nombre del jugador es: fsafas
+14/Sep/2021 16:19:23,084- MainSeleccion: El nombre del jugador es: sfasf
+14/Sep/2021 16:19:23,085- MainSeleccion: El nombre del jugador es: sda
+14/Sep/2021 16:19:23,085- MainSeleccion: El nombre del jugador es: fsfs
+14/Sep/2021 16:19:23,085- MainSeleccion: El nombre del jugador es: wfs
+14/Sep/2021 16:19:23,085- MainSeleccion: el jugador no esta
+14/Sep/2021 16:26:04,714- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:26:09,637- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:26:14,691- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:26:16,123- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:26:17,325- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:26:18,557- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:26:19,559- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:26:20,565- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:26:21,522- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:26:22,695- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:26:23,716- MainSeleccion: El nombre del jugador es: dfsafd
+14/Sep/2021 16:26:23,716- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 16:26:23,716- MainSeleccion: El nombre del jugador es: fgdff
+14/Sep/2021 16:26:23,716- MainSeleccion: El nombre del jugador es: dgfdefe
+14/Sep/2021 16:26:23,717- MainSeleccion: El nombre del jugador es: sdsdw
+14/Sep/2021 16:26:23,717- MainSeleccion: El nombre del jugador es: gfrgr
+14/Sep/2021 16:26:23,717- MainSeleccion: El nombre del jugador es: dsdsa
+14/Sep/2021 16:26:23,717- MainSeleccion: El nombre del jugador es: sdads
+14/Sep/2021 16:26:23,718- MainSeleccion: El nombre del jugador es: gffhr
+14/Sep/2021 16:26:23,718- MainSeleccion: El nombre del jugador es: dgd
+14/Sep/2021 16:26:28,401- MainSeleccion: el jugador no esta
+14/Sep/2021 16:29:29,476- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:29:33,307- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:29:35,907- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:29:36,765- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:29:37,739- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:29:38,741- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:29:39,622- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:29:40,389- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:29:41,081- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:29:42,024- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:29:43,133- MainSeleccion: El nombre del jugador es: sadas
+14/Sep/2021 16:29:43,133- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 16:29:43,134- MainSeleccion: El nombre del jugador es: dasda
+14/Sep/2021 16:29:43,135- MainSeleccion: El nombre del jugador es: gdgdd
+14/Sep/2021 16:29:43,136- MainSeleccion: El nombre del jugador es: hghg
+14/Sep/2021 16:29:43,136- MainSeleccion: El nombre del jugador es: jhgjg
+14/Sep/2021 16:29:43,136- MainSeleccion: El nombre del jugador es: fgfg
+14/Sep/2021 16:29:43,136- MainSeleccion: El nombre del jugador es: dfd
+14/Sep/2021 16:29:43,137- MainSeleccion: El nombre del jugador es: dfd
+14/Sep/2021 16:29:43,137- MainSeleccion: El nombre del jugador es: fdfd
+14/Sep/2021 16:29:46,125- MainSeleccion: el jugador no esta
+14/Sep/2021 16:44:45,344- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:44:48,524- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:44:50,569- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:44:51,720- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:44:52,819- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:44:53,781- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:44:54,673- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:44:55,808- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:44:56,829- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:44:58,156- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:44:59,372- MainSeleccion: El nombre del jugador es: sdasda
+14/Sep/2021 16:44:59,372- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 16:44:59,372- MainSeleccion: El nombre del jugador es: gddfd
+14/Sep/2021 16:44:59,373- MainSeleccion: El nombre del jugador es: hghgthgf
+14/Sep/2021 16:44:59,373- MainSeleccion: El nombre del jugador es: fgdfgd
+14/Sep/2021 16:44:59,373- MainSeleccion: El nombre del jugador es: dfsfds
+14/Sep/2021 16:44:59,373- MainSeleccion: El nombre del jugador es: dfs
+14/Sep/2021 16:44:59,373- MainSeleccion: El nombre del jugador es: hfghf
+14/Sep/2021 16:44:59,374- MainSeleccion: El nombre del jugador es: hffhd
+14/Sep/2021 16:44:59,374- MainSeleccion: El nombre del jugador es: fgdgdf
+14/Sep/2021 16:47:21,452- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:47:25,998- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:47:29,554- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 16:47:29,555- MainSeleccion: El nombre del jugador es: falcao
+14/Sep/2021 16:52:34,777- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:52:38,947- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:52:41,576- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 16:52:41,577- MainSeleccion: El nombre del jugador es: falcao
+14/Sep/2021 16:54:38,781- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:54:43,865- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:54:46,506- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 16:54:46,507- MainSeleccion: El nombre del jugador es: falcao
+14/Sep/2021 16:55:24,219- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:55:31,365- MainSeleccion: Digite el nombre del jugador
+14/Sep/2021 16:55:33,882- MainSeleccion: El nombre del jugador es: james
+14/Sep/2021 16:55:33,883- MainSeleccion: El nombre del jugador es: falcao
