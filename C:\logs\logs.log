@@ -405,3 +405,53 @@
 14/Sep/2021 16:55:31,365- MainSeleccion: Digite el nombre del jugador
 14/Sep/2021 16:55:33,882- MainSeleccion: El nombre del jugador es: james
 14/Sep/2021 16:55:33,883- MainSeleccion: El nombre del jugador es: falcao
+20/Sep/2021 17:07:44,831- MainPruebaFunciones: Digite el factorial que desee obtener
+20/Sep/2021 17:08:20,300- MainPruebaFunciones: El factorial iterativo:120
+20/Sep/2021 17:08:20,301- MainPruebaFunciones: El factorial recursivo120
+20/Sep/2021 17:08:34,987- MainPruebaFunciones: Digite el factorial que desee obtener
+20/Sep/2021 17:08:38,683- MainPruebaFunciones: El factorial iterativo:0
+20/Sep/2021 17:08:38,684- MainPruebaFunciones: El factorial recursivo0
+20/Sep/2021 17:15:53,646- MainPruebaFunciones: Digite el factorial que desee obtener
+20/Sep/2021 17:16:04,464- MainPruebaFunciones: El factorial iterativo:120
+20/Sep/2021 17:16:04,464- MainPruebaFunciones: El factorial recursivo120
+20/Sep/2021 17:16:04,466- MainPruebaFunciones: Digite la base
+20/Sep/2021 17:16:07,571- MainPruebaFunciones: Digite el exponente
+20/Sep/2021 17:16:50,942- MainPruebaFunciones: Digite el factorial que desee obtener
+20/Sep/2021 17:16:53,721- MainPruebaFunciones: El factorial iterativo:120
+20/Sep/2021 17:16:53,722- MainPruebaFunciones: El factorial recursivo120
+20/Sep/2021 17:16:53,723- MainPruebaFunciones: Digite la base
+20/Sep/2021 17:16:56,930- MainPruebaFunciones: Digite el exponente
+20/Sep/2021 17:16:58,333- MainPruebaFunciones: la potencia da:3125.0
+20/Sep/2021 17:17:25,577- MainPruebaFunciones: Digite el factorial que desee obtener
+20/Sep/2021 17:17:27,847- MainPruebaFunciones: El factorial iterativo:120
+20/Sep/2021 17:17:27,848- MainPruebaFunciones: El factorial recursivo120
+20/Sep/2021 17:17:27,848- MainPruebaFunciones: Digite la base
+20/Sep/2021 17:17:31,357- MainPruebaFunciones: Digite el exponente
+20/Sep/2021 17:17:32,863- MainPruebaFunciones: la potencia da:25.0
+20/Sep/2021 17:42:27,204- Mcd: mcd (96,36)=12
+20/Sep/2021 20:02:25,492- Mcd: inicio de mcd(96, 36)
+20/Sep/2021 20:02:25,493- Mcd: fin de mcd(96, 36)
+20/Sep/2021 20:02:25,493- Mcd: inicio de mcd(96, 36)
+20/Sep/2021 20:02:25,494- Mcd: fin de mcd(96, 36)
+20/Sep/2021 20:02:25,494- Mcd: inicio de mcd(96, 36)
+20/Sep/2021 20:02:25,494- Mcd: fin de mcd(96, 36)
+20/Sep/2021 20:02:25,494- Mcd: inicio de mcd(96, 36)
+20/Sep/2021 20:02:25,495- Mcd: fin de mcd(96, 36)
+20/Sep/2021 20:02:25,495- Mcd: mcd (96,36)=12
+20/Sep/2021 21:04:05,335- Mcd: 2.0737240167276587
+20/Sep/2021 21:15:33,970- MainSucesion: 2.0737240167276587
+20/Sep/2021 21:15:33,977- MainSucesion: la cantidad de veces que se ejecuta el metodo:177
+20/Sep/2021 21:25:58,674- MainSucesion: 1.9200000000000002
+20/Sep/2021 21:25:58,678- MainSucesion: la cantidad de veces que se ejecuta el metodo:3
+20/Sep/2021 21:27:17,824- MainSucesion: 1.9472
+20/Sep/2021 21:27:17,830- MainSucesion: la cantidad de veces que se ejecuta el metodo:5
+20/Sep/2021 21:28:36,281- MainSucesion: 2.0737240167276587
+20/Sep/2021 21:28:36,286- MainSucesion: la cantidad de veces que se ejecuta el metodo:177
+20/Sep/2021 21:35:15,042- MainSucesion: 6.188653075600001
+20/Sep/2021 21:35:15,046- MainSucesion: la cantidad de veces que se ejecuta el metodo:25
+20/Sep/2021 21:35:32,364- MainSucesion: 5.188254503245001
+20/Sep/2021 21:35:32,369- MainSucesion: la cantidad de veces que se ejecuta el metodo:41
+20/Sep/2021 21:38:50,010- MainSucesion: 2.0737240167276587
+20/Sep/2021 21:38:50,014- MainSucesion: la cantidad de veces que se ejecuta el metodo:177
+20/Sep/2021 21:39:17,557- MainSucesion: 1.9472
+20/Sep/2021 21:39:17,561- MainSucesion: la cantidad de veces que se ejecuta el metodo:5
