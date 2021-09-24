@@ -16,13 +16,16 @@ import org.junit.Test;
 public class FuncionesTest {
      @Test
     public void testFunciones() {
-       Funciones funciones= new Funciones();
-       int resultado=Funciones.factorial(5);
+       Funciones funciones= new Funciones();//instancia del objeto
+       int resultado=Funciones.factorial(5);//definimos una variable con el 
+       //metodo factorial iterativo de la clase Funciones
        
-        assertEquals(120 , resultado);
+        assertEquals(120 , resultado);//comparamos el resultado respectivamente
         
-        int resultadorecursivo=Funciones.factorialRec(5);
+        int resultadorecursivo=Funciones.factorialRec(5);//definimos otra
+        //variable con el metodo factorial recursivo de la clase Funciones
         
-        assertEquals(120 , resultadorecursivo);
+        assertEquals(120 , resultadorecursivo);//comparamos el respectivo 
+        //resultado
     }
 }
