@@ -24,99 +24,104 @@ public class Lista {
         Nodo nodo = new Nodo(libro);
         if (cabeza == null) {
             cabeza = nodo;
-        } else{
-            Nodo puntero=cabeza;
+        } else {
+            Nodo puntero = cabeza;
             while (puntero.siguiente != null) {
                 puntero = puntero.siguiente;
             }
-        puntero.siguiente = nodo;
-    }
+            puntero.siguiente = nodo;
+        }
         longitud++;
 
-}
-    public void insertarDespues(int n,Libro libro){
+    }
+
+    public void insertarDespues(int n, Libro libro) {
         Nodo nodo = new Nodo(libro);
-        if (cabeza==null){
-            cabeza=null;
-        }else{
-            Nodo puntero=cabeza;
-            int contador=0;
-            while (contador<n && puntero.siguiente!=null){
-                puntero=puntero.siguiente;
+        if (cabeza == null) {
+            cabeza = null;
+        } else {
+            Nodo puntero = cabeza;
+            int contador = 0;
+            while (contador < n && puntero.siguiente != null) {
+                puntero = puntero.siguiente;
                 contador++;
             }
-            nodo.siguiente=puntero.siguiente;
-            puntero.siguiente=nodo;
+            nodo.siguiente = puntero.siguiente;
+            puntero.siguiente = nodo;
 
         }
         longitud++;
     }
 
-    public  Libro obtener(int n){
-        if (cabeza==null){
+    public Libro obtener(int n) {
+        if (cabeza == null) {
             return null;
-        }else {
-            Nodo puntero =cabeza;
-            int contador=0;
-            while (contador<n && puntero.siguiente!=null){
-                puntero=puntero.siguiente;
+        } else {
+            Nodo puntero = cabeza;
+            int contador = 0;
+            while (contador < n && puntero.siguiente != null) {
+                puntero = puntero.siguiente;
                 contador++;
             }
-            if (contador != n){
+            if (contador != n) {
                 return null;
-            }else{
+            } else {
                 return puntero.libro;
             }
         }
     }
-    public int contar(){
+
+    public int contar() {
         return longitud;
 
     }
-    public boolean estaVacio(){
-        return cabeza== null;
+
+    public boolean estaVacio() {
+        return cabeza == null;
     }
 
-    public void eliminarPrincipio(){
-        if (cabeza!=null){
-            Nodo primer=cabeza;
-            cabeza=cabeza.siguiente;
-            primer.siguiente=null;
+    public void eliminarPrincipio() {
+        if (cabeza != null) {
+            Nodo primer = cabeza;
+            cabeza = cabeza.siguiente;
+            primer.siguiente = null;
             longitud--;
         }
     }
-    public void eliminarUltimo(){
-        if (cabeza!=null){
-            if (cabeza.siguiente==null){
-                cabeza=null;
-            }else{
+
+    public void eliminarUltimo() {
+        if (cabeza != null) {
+            if (cabeza.siguiente == null) {
+                cabeza = null;
+            } else {
                 Nodo puntero = cabeza;
-                while (puntero.siguiente.siguiente!=null){
-                    puntero=puntero.siguiente;
+                while (puntero.siguiente.siguiente != null) {
+                    puntero = puntero.siguiente;
                 }
-                puntero.siguiente=null;
+                puntero.siguiente = null;
 
             }
 
         }
     }
-    public void eliminarLibro(int n){
-        if (cabeza !=null){
-            if (n==0){
-                Nodo primer =cabeza;
-                cabeza=cabeza.siguiente;
-                primer.siguiente=null;
+
+    public void eliminarLibro(int n) {
+        if (cabeza != null) {
+            if (n == 0) {
+                Nodo primer = cabeza;
+                cabeza = cabeza.siguiente;
+                primer.siguiente = null;
                 longitud--;
-            }else if (n<longitud){
-                Nodo puntero=cabeza;
-                int contador=0;
-                while (contador <(n-1)){
-                    puntero=puntero.siguiente;
+            } else if (n < longitud) {
+                Nodo puntero = cabeza;
+                int contador = 0;
+                while (contador < (n - 1)) {
+                    puntero = puntero.siguiente;
                     contador++;
                 }
                 Nodo temp = puntero.siguiente;
-                puntero.siguiente=temp.siguiente;
-                temp.siguiente=null;
+                puntero.siguiente = temp.siguiente;
+                temp.siguiente = null;
                 longitud--;
             }
         }
