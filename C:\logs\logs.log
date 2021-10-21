@@ -455,3 +455,381 @@
 20/Sep/2021 21:38:50,014- MainSucesion: la cantidad de veces que se ejecuta el metodo:177
 20/Sep/2021 21:39:17,557- MainSucesion: 1.9472
 20/Sep/2021 21:39:17,561- MainSucesion: la cantidad de veces que se ejecuta el metodo:5
+20/oct/2021 11:40:28,268- Main: ChocoRamo
+20/oct/2021 11:40:28,282- Main: Gansito
+20/oct/2021 11:40:28,283- Main: ChocoCono
+20/oct/2021 11:40:28,283- Main: Muffin
+20/oct/2021 11:40:28,283- Main: Gala
+20/oct/2021 11:40:28,284- Main: Oreo
+20/oct/2021 11:40:28,284- Main: Saltinas
+20/oct/2021 11:40:28,285- Main: YogoYogo
+20/oct/2021 11:40:28,285- Main: Gusanitos
+20/oct/2021 11:40:28,285- Main: Frunas
+20/oct/2021 11:40:28,286- Main: ChocoRamo
+20/oct/2021 11:40:28,286- Main: Gansito
+20/oct/2021 11:40:28,287- Main: ChocoCono
+20/oct/2021 11:40:28,287- Main: Muffin
+20/oct/2021 11:40:28,287- Main: Gala
+20/oct/2021 11:40:28,288- Main: Oreo
+20/oct/2021 11:40:28,288- Main: Saltinas
+20/oct/2021 11:40:28,289- Main: YogoYogo
+20/oct/2021 11:40:28,289- Main: Gusanitos
+20/oct/2021 11:40:28,289- Main: Frunas
+20/oct/2021 11:41:38,766- Main: imprimiendo con iterador
+20/oct/2021 11:41:38,768- Main: ChocoRamo
+20/oct/2021 11:41:38,768- Main: Gansito
+20/oct/2021 11:41:38,768- Main: ChocoCono
+20/oct/2021 11:41:38,769- Main: Muffin
+20/oct/2021 11:41:38,769- Main: Gala
+20/oct/2021 11:41:38,769- Main: Oreo
+20/oct/2021 11:41:38,770- Main: Saltinas
+20/oct/2021 11:41:38,770- Main: YogoYogo
+20/oct/2021 11:41:38,770- Main: Gusanitos
+20/oct/2021 11:41:38,771- Main: Frunas
+20/oct/2021 11:41:38,771- Main: imprimiendo sin iterador
+20/oct/2021 11:41:38,771- Main: ChocoRamo
+20/oct/2021 11:41:38,772- Main: Gansito
+20/oct/2021 11:41:38,772- Main: ChocoCono
+20/oct/2021 11:41:38,773- Main: Muffin
+20/oct/2021 11:41:38,773- Main: Gala
+20/oct/2021 11:41:38,774- Main: Oreo
+20/oct/2021 11:41:38,774- Main: Saltinas
+20/oct/2021 11:41:38,774- Main: YogoYogo
+20/oct/2021 11:41:38,775- Main: Gusanitos
+20/oct/2021 11:41:38,775- Main: Frunas
+20/oct/2021 11:45:58,104- Main: imprimiendo con iterador
+20/oct/2021 12:19:04,102- Main: imprimiendo con iterador
+20/oct/2021 12:19:46,244- Main: imprimiendo con iterador
+20/oct/2021 12:20:41,772- Main: imprimiendo con iterador
+20/oct/2021 12:20:41,774- Main: ChocoRamo
+20/oct/2021 12:20:41,774- Main: Gansito
+20/oct/2021 12:20:41,774- Main: ChocoCono
+20/oct/2021 12:20:41,775- Main: Muffin
+20/oct/2021 12:20:41,775- Main: Gala
+20/oct/2021 12:20:41,775- Main: Oreo
+20/oct/2021 12:20:41,776- Main: Saltinas
+20/oct/2021 12:20:41,776- Main: YogoYogo
+20/oct/2021 12:20:41,776- Main: Gusanitos
+20/oct/2021 12:20:41,776- Main: Frunas
+20/oct/2021 12:20:41,777- Main: imprimiendo sin iterador
+20/oct/2021 12:20:41,777- Main: ChocoRamo
+20/oct/2021 12:20:41,777- Main: Gansito
+20/oct/2021 12:20:41,778- Main: ChocoCono
+20/oct/2021 12:20:41,778- Main: Muffin
+20/oct/2021 12:20:41,779- Main: Gala
+20/oct/2021 12:20:41,779- Main: Oreo
+20/oct/2021 12:20:41,779- Main: Saltinas
+20/oct/2021 12:20:41,779- Main: YogoYogo
+20/oct/2021 12:20:41,780- Main: Gusanitos
+20/oct/2021 12:20:41,780- Main: Frunas
+20/oct/2021 12:25:32,774- Main: imprimiendo con iterador
+20/oct/2021 12:25:32,777- Main: imprimiendo sin iterador
+20/oct/2021 12:27:57,670- Main: imprimiendo con iterador
+20/oct/2021 12:27:57,671- Main: ChocoRamo
+20/oct/2021 12:27:57,672- Main: Gansito
+20/oct/2021 12:27:57,672- Main: ChocoCono
+20/oct/2021 12:27:57,672- Main: Muffin
+20/oct/2021 12:27:57,673- Main: Gala
+20/oct/2021 12:27:57,673- Main: Oreo
+20/oct/2021 12:27:57,673- Main: Saltinas
+20/oct/2021 12:27:57,674- Main: YogoYogo
+20/oct/2021 12:27:57,674- Main: Gusanitos
+20/oct/2021 12:27:57,674- Main: Frunas
+20/oct/2021 12:27:57,674- Main: imprimiendo sin iterador
+20/oct/2021 12:27:57,675- Main: ChocoRamo
+20/oct/2021 12:27:57,675- Main: Gansito
+20/oct/2021 12:27:57,676- Main: ChocoCono
+20/oct/2021 12:27:57,676- Main: Muffin
+20/oct/2021 12:27:57,677- Main: Gala
+20/oct/2021 12:27:57,678- Main: Oreo
+20/oct/2021 12:27:57,678- Main: Saltinas
+20/oct/2021 12:27:57,678- Main: YogoYogo
+20/oct/2021 12:27:57,678- Main: Gusanitos
+20/oct/2021 12:27:57,679- Main: Frunas
+20/oct/2021 12:36:23,617- Main: imprimiendo con iterador
+20/oct/2021 12:36:23,619- Main: ChocoRamo
+20/oct/2021 12:36:23,619- Main: Gansito
+20/oct/2021 12:36:23,619- Main: ChocoCono
+20/oct/2021 12:36:23,620- Main: Muffin
+20/oct/2021 12:36:23,620- Main: Gala
+20/oct/2021 12:36:23,620- Main: Oreo
+20/oct/2021 12:36:23,621- Main: Saltinas
+20/oct/2021 12:36:23,622- Main: YogoYogo
+20/oct/2021 12:36:23,622- Main: Gusanitos
+20/oct/2021 12:36:23,622- Main: Frunas
+20/oct/2021 12:37:16,534- Main: imprimiendo con iterador
+20/oct/2021 12:37:16,536- Main: ChocoRamo
+20/oct/2021 12:37:16,536- Main: 0
+20/oct/2021 12:37:16,537- Main: Gansito
+20/oct/2021 12:37:16,537- Main: 1
+20/oct/2021 12:37:16,537- Main: ChocoCono
+20/oct/2021 12:37:16,538- Main: 2
+20/oct/2021 12:37:16,538- Main: Muffin
+20/oct/2021 12:37:16,538- Main: 3
+20/oct/2021 12:37:16,539- Main: Gala
+20/oct/2021 12:37:16,539- Main: 4
+20/oct/2021 12:37:16,539- Main: Oreo
+20/oct/2021 12:37:16,540- Main: 5
+20/oct/2021 12:37:16,543- Main: Saltinas
+20/oct/2021 12:37:16,544- Main: 6
+20/oct/2021 12:37:16,544- Main: YogoYogo
+20/oct/2021 12:37:16,545- Main: 7
+20/oct/2021 12:37:16,545- Main: Gusanitos
+20/oct/2021 12:37:16,546- Main: 8
+20/oct/2021 12:37:16,546- Main: Frunas
+20/oct/2021 12:37:16,547- Main: 9
+20/oct/2021 12:56:34,415- Main: imprimiendo con iterador
+20/oct/2021 12:56:34,427- Main: ChocoRamo
+20/oct/2021 12:56:34,429- Main: 1
+20/oct/2021 12:56:34,429- Main: Gansito
+20/oct/2021 12:56:34,430- Main: 2
+20/oct/2021 12:56:34,431- Main: ChocoCono
+20/oct/2021 12:56:34,431- Main: 3
+20/oct/2021 12:56:34,433- Main: Muffin
+20/oct/2021 12:56:34,435- Main: 4
+20/oct/2021 12:56:34,435- Main: Gala
+20/oct/2021 12:56:34,435- Main: 5
+20/oct/2021 12:56:34,436- Main: Oreo
+20/oct/2021 12:56:34,436- Main: 6
+20/oct/2021 12:56:34,436- Main: Saltinas
+20/oct/2021 12:56:34,437- Main: 7
+20/oct/2021 12:56:34,438- Main: YogoYogo
+20/oct/2021 12:56:34,438- Main: 8
+20/oct/2021 12:56:34,438- Main: Gusanitos
+20/oct/2021 12:56:34,439- Main: 9
+20/oct/2021 12:56:34,439- Main: Frunas
+20/oct/2021 12:56:34,440- Main: 10
+20/oct/2021 12:56:34,440- Main: imprimiendo sin iterador
+20/oct/2021 12:56:34,441- Main: ChocoRamo
+20/oct/2021 12:56:34,441- Main: Gansito
+20/oct/2021 12:56:34,441- Main: ChocoCono
+20/oct/2021 12:56:34,442- Main: Muffin
+20/oct/2021 12:56:34,442- Main: Gala
+20/oct/2021 12:56:34,442- Main: Oreo
+20/oct/2021 12:56:34,443- Main: Saltinas
+20/oct/2021 12:56:34,443- Main: YogoYogo
+20/oct/2021 12:56:34,443- Main: Gusanitos
+20/oct/2021 12:56:34,444- Main: Frunas
+20/oct/2021 12:57:42,856- Main: imprimiendo con iterador
+20/oct/2021 12:57:42,858- Main: ChocoRamo
+20/oct/2021 12:57:42,858- Main: 1
+20/oct/2021 12:57:42,859- Main: Gansito
+20/oct/2021 12:57:42,862- Main: 2
+20/oct/2021 12:57:42,863- Main: ChocoCono
+20/oct/2021 12:57:42,864- Main: 3
+20/oct/2021 12:57:42,865- Main: Muffin
+20/oct/2021 12:57:42,865- Main: 4
+20/oct/2021 12:57:42,865- Main: Gala
+20/oct/2021 12:57:42,866- Main: 5
+20/oct/2021 12:57:42,866- Main: Oreo
+20/oct/2021 12:57:42,867- Main: 6
+20/oct/2021 12:57:42,867- Main: Saltinas
+20/oct/2021 12:57:42,869- Main: 7
+20/oct/2021 12:57:42,870- Main: YogoYogo
+20/oct/2021 12:57:42,872- Main: 8
+20/oct/2021 12:57:42,872- Main: Gusanitos
+20/oct/2021 12:57:42,873- Main: 9
+20/oct/2021 12:57:42,883- Main: Frunas
+20/oct/2021 12:57:42,883- Main: 10
+20/oct/2021 12:57:42,884- Main: imprimiendo sin iterador
+20/oct/2021 12:57:42,884- Main: ChocoRamo
+20/oct/2021 12:57:42,885- Main: Gansito
+20/oct/2021 12:57:42,885- Main: ChocoCono
+20/oct/2021 12:57:42,885- Main: Muffin
+20/oct/2021 12:57:42,885- Main: Gala
+20/oct/2021 12:57:42,886- Main: Oreo
+20/oct/2021 12:57:42,886- Main: Saltinas
+20/oct/2021 12:57:42,886- Main: YogoYogo
+20/oct/2021 12:57:42,902- Main: Gusanitos
+20/oct/2021 12:57:42,902- Main: Frunas
+20/oct/2021 12:57:42,905- Main: Encontrado
+20/oct/2021 15:59:29,658- Main: la lista esta vacia
+20/oct/2021 16:05:53,820- Main: la lista esta vacia
+20/oct/2021 16:07:17,526- Main: la lista esta vacia
+20/oct/2021 16:07:17,529- Main: elemento ingresado
+20/oct/2021 16:07:17,529- Main: elemento ingresado
+20/oct/2021 16:12:13,233- Main: la lista esta vacia
+20/oct/2021 16:12:13,235- Main: elemento ingresado
+20/oct/2021 16:12:13,236- Main: elemento ingresado
+20/oct/2021 16:14:33,304- Main: la lista esta vacia
+20/oct/2021 16:14:33,307- Main: elemento ingresado
+20/oct/2021 16:14:33,308- Main: elemento ingresado
+20/oct/2021 16:14:33,308- Main: 15
+20/oct/2021 16:47:38,703- Main: la lista esta vacia
+20/oct/2021 16:47:38,708- Main: elemento ingresado
+20/oct/2021 16:47:38,708- Main: elemento ingresado
+20/oct/2021 16:47:38,709- Main: 15
+20/oct/2021 16:49:02,818- Main: la lista esta vacia
+20/oct/2021 16:49:02,834- Main: elemento ingresado
+20/oct/2021 16:49:02,834- Main: elemento ingresado
+20/oct/2021 16:49:02,835- Main: 15
+20/oct/2021 16:49:02,835- Main: elemento eliminado
+20/oct/2021 16:49:02,836- Main: co.edu.ucundinamarca.taller4_1.ListaSimple$Nodo@7a46a697
+20/oct/2021 16:49:52,116- Main: la lista esta vacia
+20/oct/2021 16:49:52,118- Main: elemento ingresado
+20/oct/2021 16:49:52,119- Main: elemento ingresado
+20/oct/2021 16:49:52,120- Main: 15
+20/oct/2021 16:49:52,121- Main: elemento eliminado
+20/oct/2021 16:49:52,121- Main: 
+20/oct/2021 16:50:47,626- Main: la lista esta vacia
+20/oct/2021 16:50:47,629- Main: elemento ingresado
+20/oct/2021 16:50:47,629- Main: elemento ingresado
+20/oct/2021 16:50:47,630- Main: 15
+20/oct/2021 16:50:47,630- Main: elemento eliminado
+20/oct/2021 16:50:47,631- Main: 
+20/oct/2021 16:50:47,631- Main: la lista esta vacia
+20/oct/2021 16:55:20,059- Main: la lista esta vacia
+20/oct/2021 16:55:20,060- Main: elemento ingresado
+20/oct/2021 16:55:20,061- Main: elemento ingresado
+20/oct/2021 16:55:20,061- Main: 15
+20/oct/2021 16:55:20,061- Main: elemento eliminado
+20/oct/2021 16:55:20,061- Main: 
+20/oct/2021 16:55:20,061- Main: la lista esta vacia
+20/oct/2021 16:56:20,335- Main: la lista esta vacia
+20/oct/2021 16:56:20,337- Main: elemento ingresado
+20/oct/2021 16:56:20,337- Main: elemento ingresado
+20/oct/2021 16:56:20,338- Main: 15
+20/oct/2021 16:56:20,338- Main: elemento eliminado
+20/oct/2021 16:56:20,339- Main: 
+20/oct/2021 16:56:20,339- Main: la lista esta vacia
+20/oct/2021 16:56:44,402- Main: la lista esta vacia
+20/oct/2021 16:56:44,404- Main: elemento ingresado
+20/oct/2021 16:56:44,404- Main: elemento ingresado
+20/oct/2021 16:56:44,404- Main: 15
+20/oct/2021 16:56:44,405- Main: elemento eliminado
+20/oct/2021 16:56:44,405- Main: 
+20/oct/2021 16:56:44,406- Main: la lista esta vacia
+20/oct/2021 16:58:02,286- Main: la lista esta vacia
+20/oct/2021 16:58:02,288- Main: elemento ingresado
+20/oct/2021 16:58:02,288- Main: elemento ingresado
+20/oct/2021 16:58:02,289- Main: 15
+20/oct/2021 16:58:02,289- Main: elemento eliminado
+20/oct/2021 16:58:02,290- Main: 
+20/oct/2021 16:58:02,291- Main: la lista esta vacia
+20/oct/2021 17:00:21,604- Main: la lista esta vacia
+20/oct/2021 17:00:21,608- Main: elemento ingresado
+20/oct/2021 17:00:21,608- Main: elemento ingresado
+20/oct/2021 17:00:21,610- Main: 15
+20/oct/2021 17:00:21,612- Main: elemento eliminado
+20/oct/2021 17:00:21,613- Main: 
+20/oct/2021 17:00:21,614- Main: la lista esta vacia
+20/oct/2021 17:01:16,066- Main: la lista esta vacia
+20/oct/2021 17:01:16,067- Main: elemento ingresado
+20/oct/2021 17:01:16,067- Main: elemento ingresado
+20/oct/2021 17:01:16,068- Main: 15
+20/oct/2021 17:01:16,068- Main: elemento eliminado
+20/oct/2021 17:01:16,068- Main: 
+20/oct/2021 17:01:16,069- Main: la lista tiene elementos
+20/oct/2021 17:08:20,907- Main: la lista esta vacia
+20/oct/2021 17:08:20,909- Main: elemento ingresado
+20/oct/2021 17:08:20,909- Main: elemento ingresado
+20/oct/2021 17:08:20,909- Main: 15
+20/oct/2021 17:08:20,910- Main: elemento eliminado
+20/oct/2021 17:08:20,910- Main: 
+20/oct/2021 17:08:20,910- Main: la lista tiene elementos
+20/oct/2021 17:08:20,911- Main: elementos eliminados
+20/oct/2021 17:08:20,911- Main: la lista esta vacia
+20/oct/2021 17:09:57,115- Main: la lista esta vacia
+20/oct/2021 17:09:57,117- Main: elemento ingresado
+20/oct/2021 17:09:57,117- Main: elemento ingresado
+20/oct/2021 17:09:57,118- Main: 15
+20/oct/2021 17:09:57,118- Main: elemento eliminado
+20/oct/2021 17:09:57,118- Main: 
+20/oct/2021 17:09:57,119- Main: la lista tiene elementos
+20/oct/2021 17:09:57,119- Main: elementos eliminados
+20/oct/2021 17:09:57,119- Main: la lista esta vacia
+20/oct/2021 17:09:57,120- Main: 0
+20/oct/2021 19:57:03,872- Main: co.edu.ucundinamarca.taller4_1.ListaDoble$NodoDoble@277c0f21
+20/oct/2021 19:57:20,033- Main: 13
+20/oct/2021 20:41:34,762- Main: Nodo encontrado
+20/oct/2021 20:41:34,764- Main: 13
+20/oct/2021 20:42:45,857- Main: la lista esta vacia
+20/oct/2021 20:42:45,860- Main: elemento ingresado
+20/oct/2021 20:42:45,860- Main: elemento ingresado
+20/oct/2021 20:42:45,861- Main: 15
+20/oct/2021 20:42:45,862- Main: elemento eliminado
+20/oct/2021 20:42:45,862- Main: 
+20/oct/2021 20:42:45,863- Main: la lista tiene elementos
+20/oct/2021 20:42:45,863- Main: elementos eliminados
+20/oct/2021 20:42:45,864- Main: la lista esta vacia
+20/oct/2021 20:42:45,864- Main: 0
+20/oct/2021 21:05:25,691- Main: Nodo encontrado
+20/oct/2021 21:05:25,693- Main: 13
+20/oct/2021 21:06:02,581- Main: Nodo encontrado
+20/oct/2021 21:06:02,584- Main: 13
+20/oct/2021 21:10:13,316- Main: Nodo encontrado
+20/oct/2021 21:10:13,318- Main: 13
+20/oct/2021 21:14:44,658- Main: Nodo encontrado
+20/oct/2021 21:14:44,660- Main: 13
+20/oct/2021 21:15:39,067- Main: Nodo encontrado
+20/oct/2021 21:15:39,068- Main: 13
+20/oct/2021 21:15:58,948- Main: Nodo encontrado
+20/oct/2021 21:15:58,950- Main: 13
+20/oct/2021 21:18:26,274- Main: Nodo encontrado
+20/oct/2021 21:18:26,276- Main: 13
+20/oct/2021 21:21:26,595- Main: Nodo encontrado
+20/oct/2021 21:21:26,596- Main: 13
+20/oct/2021 21:23:38,825- Main: Nodo encontrado
+20/oct/2021 21:23:38,841- Main: 13
+20/oct/2021 21:37:50,652- Main: imprimiendo con iterador
+20/oct/2021 21:37:50,653- Main: ChocoRamo
+20/oct/2021 21:37:50,654- Main: 1
+20/oct/2021 21:37:50,654- Main: Gansito
+20/oct/2021 21:37:50,655- Main: 2
+20/oct/2021 21:37:50,655- Main: ChocoCono
+20/oct/2021 21:37:50,655- Main: 3
+20/oct/2021 21:37:50,656- Main: Muffin
+20/oct/2021 21:37:50,656- Main: 4
+20/oct/2021 21:37:50,656- Main: Gala
+20/oct/2021 21:37:50,657- Main: 5
+20/oct/2021 21:37:50,657- Main: Oreo
+20/oct/2021 21:37:50,657- Main: 6
+20/oct/2021 21:37:50,657- Main: Saltinas
+20/oct/2021 21:37:50,658- Main: 7
+20/oct/2021 21:37:50,658- Main: YogoYogo
+20/oct/2021 21:37:50,658- Main: 8
+20/oct/2021 21:37:50,659- Main: Gusanitos
+20/oct/2021 21:37:50,659- Main: 9
+20/oct/2021 21:37:50,660- Main: Frunas
+20/oct/2021 21:37:50,660- Main: 10
+20/oct/2021 21:37:50,661- Main: imprimiendo sin iterador
+20/oct/2021 21:37:50,662- Main: ChocoRamo
+20/oct/2021 21:37:50,662- Main: Gansito
+20/oct/2021 21:37:50,662- Main: ChocoCono
+20/oct/2021 21:37:50,663- Main: Muffin
+20/oct/2021 21:37:50,663- Main: Gala
+20/oct/2021 21:37:50,663- Main: Oreo
+20/oct/2021 21:37:50,664- Main: Saltinas
+20/oct/2021 21:37:50,664- Main: YogoYogo
+20/oct/2021 21:37:50,665- Main: Gusanitos
+20/oct/2021 21:37:50,665- Main: Frunas
+20/oct/2021 21:37:50,666- Main: Encontrado
+20/oct/2021 21:38:46,877- Main: Nodo encontrado
+20/oct/2021 21:38:46,879- Main: 13
+20/oct/2021 21:38:55,604- Main: la lista esta vacia
+20/oct/2021 21:38:55,606- Main: elemento ingresado
+20/oct/2021 21:38:55,607- Main: elemento ingresado
+20/oct/2021 21:38:55,608- Main: 15
+20/oct/2021 21:39:36,401- Main: la lista esta vacia
+20/oct/2021 21:39:36,403- Main: elemento ingresado
+20/oct/2021 21:39:36,403- Main: elemento ingresado
+20/oct/2021 21:39:36,404- Main: 15
+20/oct/2021 21:40:58,132- Main: la lista esta vacia
+20/oct/2021 21:40:58,136- Main: elemento ingresado
+20/oct/2021 21:40:58,137- Main: elemento ingresado
+20/oct/2021 21:40:58,137- Main: 15
+20/oct/2021 21:42:47,361- Main: la lista esta vacia
+20/oct/2021 21:42:47,364- Main: elemento ingresado
+20/oct/2021 21:42:47,365- Main: elemento ingresado
+20/oct/2021 21:42:47,366- Main: 15
+20/oct/2021 21:42:47,368- Main: elementos eliminados
+20/oct/2021 21:42:47,370- Main: la lista esta vacia
+20/oct/2021 21:42:47,370- Main: 0
+20/oct/2021 21:44:09,168- Main: la lista esta vacia
+20/oct/2021 21:44:09,170- Main: elemento ingresado
+20/oct/2021 21:44:09,170- Main: elemento ingresado
+20/oct/2021 21:44:09,171- Main: 15
+20/oct/2021 21:44:09,171- Main: elemento eliminado15
+20/oct/2021 21:44:09,172- Main: elementos eliminados
+20/oct/2021 21:44:09,172- Main: la lista esta vacia
+20/oct/2021 21:44:09,172- Main: 0
