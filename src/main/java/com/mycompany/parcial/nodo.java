@@ -13,6 +13,7 @@ public class nodo {
 
     int numero;
     nodo siguiente;
+    nodo anterior;
     String nombre;
     int contadorRepetido = 0;
     int numeroMasGrande = 0;
