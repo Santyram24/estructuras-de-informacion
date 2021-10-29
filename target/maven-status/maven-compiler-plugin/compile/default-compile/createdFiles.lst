@@ -1,5 +1,8 @@
 co/edu/ucundinamarca/taller7/principal.class
+co/edu/ucundinamarca/taller7/PilaHanoi$nodo.class
+co/edu/ucundinamarca/taller7/PilaHanoi.class
 co/edu/ucundinamarca/taller7/NodoCola.class
 co/edu/ucundinamarca/taller7/NodoPila.class
 co/edu/ucundinamarca/taller7/PilaLista.class
+co/edu/ucundinamarca/taller7/Hanoi.class
 co/edu/ucundinamarca/taller7/ColaLista.class
