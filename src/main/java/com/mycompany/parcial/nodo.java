@@ -3,21 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package co.edu.ucundinamarca.taller7;
+package com.mycompany.parcial;
 
 /**
  *
  * @author santy
  */
-public class NodoPila {
-    int elemento;
-    NodoPila siguiente;
+public class nodo {
 
-    public NodoPila(int elemento) {
-        this.elemento=elemento;
-        siguiente=null;
-    }
-    
-    
-    
+    int numero;
+    nodo siguiente;
+    String nombre;
+    int contadorRepetido = 0;
+    int numeroMasGrande = 0;
 }
