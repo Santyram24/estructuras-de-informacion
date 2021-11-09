@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
  * @author santy
  */
 public class ColaBiblioteca {
-    static Logger log = Logger.getLogger(ListaDeReproduccion.class.getName());
+    static Logger log = Logger.getLogger(ColaBiblioteca.class.getName());
 
     Nodo primero;
     Nodo ultimo;
