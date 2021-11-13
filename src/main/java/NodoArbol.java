@@ -9,6 +9,8 @@
  * @author santy
  */
 public class NodoArbol {
+        //Toda la informacion esta en el README.txt
+
     int numero;
     NodoArbol hijoDerecho;
     NodoArbol hijoIzquierdo;
@@ -19,10 +21,7 @@ public class NodoArbol {
       this.hijoIzquierdo=null;
     }
 
-    @Override
-    public String toString() {
-        return "NodoArbol{" + "numero=" + numero + '}';
-    }
+
      
     
     
